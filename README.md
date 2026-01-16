@@ -13,7 +13,7 @@ I am currently writing **[AI-101](https://xinli95.github.io/AI-101/main/intro.ht
 - 🚧 *More chapters in progress—stay tuned!*
 
 ### 🛠 Tech Stack & Interests
-- **Research:** LLM Evals, Fine-tuning (SFT/RLHF), Reward Modeling, and RLVR.
+- **Research interests:** LLM, Fine-tuning (SFT/RLHF/RLVR), Topic modeling, Evaluation, Inference optimization.
 - **Tools:** PyTorch, Transformers, Unsloth, Smolagents, OpenJudge.
 
 
