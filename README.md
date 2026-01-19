@@ -3,7 +3,7 @@
 I am an **Applied Scientist** focused on the intersection of **Large Language Models (LLMs)** and **Reinforcement Learning (RL)**. I'm passionate about making complex AI concepts accessible and turning AI learning into a fun experience.
 
 ### 📖 My Book: AI-101
-I am currently writing **[AI-101](https://xinli95.github.io/AI-101/main/intro.html)**, an open-resource book intended for anyone interested in understanding the mechanics of modern AI.
+I am currently writing **[AI-101](https://xinli95.github.io/AI-101/main/intro.html)**, an open-resource book born from my personal learning notes. It is designed to be an accessible guide for anyone—from curious beginners to fellow practitioners—looking to demystify the mechanics of modern AI.
 
 **Latest Updates:**
 - ✅ **Transformers**: Deep dive into architectures.
