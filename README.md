@@ -10,6 +10,7 @@ I am currently writing **[AI-101](https://xinli95.github.io/AI-101/main/intro.ht
 - ✅ **RLHF**: Explaining theory behind PPO.
 - ✅ **RLVR**: Understanding Reinforcement Learning from Verifiable Rewards.
 - 🚧 **Evaluation** (WIP): Benchmarks, metrics, and frameworks for LLMs and Agent systems.
+- 🚧 **Responsible AI** (WIP): Model safety eval, Moderation, Safeguard LLM.
 - 🚧 *More chapters in progress—stay tuned!*
 
 ### 🛠 Tech Stack & Interests
