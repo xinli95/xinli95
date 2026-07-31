@@ -7,7 +7,7 @@ I am currently developing a trilogy of open-resource books and repositories base
 
 ### 🧠 [AI-101](https://xinli95.github.io/AI-101/main/intro.html) | *The Foundation*
 A deep dive into the mechanics of modern AI, from architecture to alignment.
-* **Key Topics:** Transformers, RLHF (PPO/DPO), RLVR (Verifiable Rewards), Evaluation and Responsible AI.
+* **Key Topics:** Transformers, RLHF (PPO/GRPO), RLVR (Verifiable Rewards), Evaluation and Responsible AI.
 
 ### 🤖 [Agent-101](https://github.com/xinli95/Agent-101) | *The Execution*
 Exploring the world of autonomous systems, tool-use, and multi-agent orchestration.
