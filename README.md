@@ -4,7 +4,7 @@
 
 > 🔍 **Learn and Be Curious** — these are my personal learning notes, cleaned up and open-sourced.
 
-## 📚 The "101" Open-Resource Series
+## 📚 The "101" Series
 
 | | | |
 |---|---|---|
