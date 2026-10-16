@@ -12,7 +12,7 @@
 | 🤖 [**Agent-101**](https://xinli95.github.io/Agent-101) | *The Execution* | Model + harness: tools, context, memory, planning, MCP |
 | ⚡ [**LLM-Inference-101**](https://xinli95.github.io/LLM-inference-101/) | *The Efficiency* | Decoding, KV cache, continuous batching, vLLM & SGLang |
 | 🖼️ [**Multimodal-101**](https://xinli95.github.io/Multimodal-101) | *The Senses* | CLIP → VLMs → document OCR → generation → omni models |
-| 🎙️ [**Speech-101**]([https://github.com/xinli95.github.io/Speech-101/](https://xinli95.github.io/Speech-101/main/intro.html)) | *The Voice* | VAD → STT → LLM → TTS pipeline |
+| 🎙️ [**Speech-101**](https://xinli95.github.io/Speech-101/main/intro.html) | *The Voice* | VAD → STT → LLM → TTS pipeline |
 
 ---
 *"If you can't explain it simply, you don't understand it well enough."*
