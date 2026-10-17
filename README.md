@@ -1,6 +1,6 @@
 # Hi there, I'm Xin! 👋
 
-**Applied Scientist** working on **LLMs** and **Agentic AI** — making complex AI concepts accessible and turning AI learning into a fun experience.
+**Applied Scientist** working on **LLMs** and **Multimodal AI** — making complex AI concepts accessible and turning AI learning into a fun experience.
 
 > 🔍 **Learn and Be Curious** — these are my personal learning notes, cleaned up and open-sourced.
 
